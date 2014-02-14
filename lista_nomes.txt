@@ -1,2 +1,7 @@
 1 Marcello Marabita
+<<<<<<< HEAD
 2 Rafael Gomes
+=======
+2 Diego castro
+3 Eduardo Urso
+>>>>>>> remotes/origin/master
